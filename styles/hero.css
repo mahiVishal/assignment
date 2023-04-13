@@ -3,6 +3,7 @@
 		url(../images/hero-cover.jpg);
 	background-size: cover;
 	height: 100vh;
+	position: relative;
 }
 
 .hero {

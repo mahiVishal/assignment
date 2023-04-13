@@ -1,0 +1,27 @@
+#features-container {
+	background-color: transparent;
+	position: absolute;
+	top: calc(100vh - 80px);
+	left: 0;
+	right: 0;
+}
+
+.features {
+	max-width: 1160px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 30px;
+}
+
+.features-card {
+	width: 328px;
+	height: 201px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 10px;
+	padding: 36px 39px;
+	background-color: #ffffff;
+}

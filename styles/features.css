@@ -25,3 +25,19 @@
 	padding: 36px 39px;
 	background-color: #ffffff;
 }
+
+.features-card > h3 {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 32px;
+	letter-spacing: 0.1px;
+	color: #252b42;
+}
+
+.features-card > p {
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	letter-spacing: 0.2px;
+	color: #737373;
+}
